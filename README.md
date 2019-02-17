@@ -19,5 +19,5 @@ $ npm install
 2. Execute the following code.
 
 ```:bash
-$ ionic run android
+$ ionic cordova run android
 ```
