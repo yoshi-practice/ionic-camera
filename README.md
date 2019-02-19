@@ -24,3 +24,5 @@ $ ionic cordova emulate ios --target="--device--" --buildFlag="-UseModernBuildSy
 
 ## Sample
 
+![](./img/sample.png)
+
