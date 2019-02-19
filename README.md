@@ -21,3 +21,6 @@ $ npm install
 ```:bash
 $ ionic cordova emulate ios --target="--device--" --buildFlag="-UseModernBuildSystem=0"
 ```
+
+## Sample
+
